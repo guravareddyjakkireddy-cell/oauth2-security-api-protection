@@ -1,0 +1,10 @@
+Documentation
+Objectives:
+• Strengthen application security
+• Implement OAuth2 authentication
+
+Technologies:
+Spring Security, OAuth2, JWT, BCrypt, HTTPS/TLS
+
+Best Practices:
+Secure coding, least privilege, API protection, token validation, password encryption.
